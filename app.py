@@ -32,8 +32,21 @@ HF_MODEL_REPO = os.environ.get("HF_MODEL_REPO")
 @st.cache_resource
 def load_translation_engine():
     try:
+        # Load the base tokenization configuration matrix
         tokenizer = AutoTokenizer.from_pretrained(HF_MODEL_REPO, use_fast=False)
-        model = AutoModelForSeq2SeqLM.from_pretrained(HF_MODEL_REPO, torch_dtype=torch.float16).to("cuda")
+        
+        # 1. DYNAMIC COMPUTE ROUTING: Fallback to CPU if NVIDIA drivers are missing
+        device = "cuda" if torch.cuda.is_available() else "cpu"
+        
+        # 2. DYNAMIC PRECISION ROUTING: CPU environments require Float32 tracking tensors
+        model_dtype = torch.float16 if device == "cuda" else torch.float32
+        
+        # Stream the weights from the registry onto the chosen compute device
+        model = AutoModelForSeq2SeqLM.from_pretrained(
+            HF_MODEL_REPO, 
+            torch_dtype=model_dtype
+        ).to(device)
+        
         return tokenizer, model
     except Exception as e:
         st.error(f"Failed to load translation core: {e}")
@@ -41,9 +54,9 @@ def load_translation_engine():
 
 tokenizer, model = load_translation_engine()
 
+# --- HEADER SECTION WITH UPDATED NLLB SIGNATURE ---
 st.markdown('<div class="main-header">Indigenous STEM Knowledge Synthesis System</div>', unsafe_allow_html=True)
 st.markdown('<div class="sub-header">Fine-Tuned No Language Left Behind (NLLB) Architecture for African STEM Education</div>', unsafe_allow_html=True)
-
 if tokenizer is not None:
     tab1, tab2 = st.tabs(["📚 Core STEM Translation Bench", "💬 Exploratory Instructional Router"])
 
