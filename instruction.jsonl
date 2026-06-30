@@ -1,0 +1,262 @@
+{"instruction": "Explain the process of photosynthesis.", "input": "", "output": "Photosynthesis (Ìṣiṣẹ́-oòrùn-sínú-ewé) ni ọ̀nà tí ewéko ń gbà ṣe oúnjẹ fún ara wọn. Ewéko ń lo ìmọ́lẹ̀ oòrùn, omi, àti kábọ̀nì dáyọ́ọ́ìdì (carbon dioxide) láti ṣe gúlúkóòsì (oúnjẹ) àti ọ̀sìgíìì (oxygen)."}
+{"instruction": "Solve for x in the quadratic equation x^2 - 5x + 6 = 0.", "input": "", "output": "Láti dáhùn ìṣirò yìí, a ń wá nọ́mbà méjì tí ó ń fún wa ní 6 nígbà tí a bá sọ ọ́ pọ̀, tí ó sì ń fún wa ní -5 nígbà tí a bá fi ara wọn pọ̀. Àwọn nọ́mbà náà ni -2 àti -3. Nípa bẹ́ẹ̀, (x - 2)(x - 3) = 0, nítorí náà x = 2 tàbí x = 3."}
+{"instruction": "What is the difference between an ionic bond and a covalent bond?", "input": "", "output": "Ìyàtọ̀ wà láàárín ìdè áónììkì (ionic bond) àti ìdè kòfélẹ́ǹtì (covalent bond). Nínú ìdè áónììkì, àwọn átọ́mù ń pàṣípààrọ̀ ẹ̀lékítírírónì. Nínú ìdè kòfélẹ́ǹtì, àwọn átọ́mù ń pín ẹ̀lékítírírónì láàárín ara wọn."}
+{"instruction": "Why is crop rotation important in agriculture?", "input": "", "output": "Ìyípadà-irúgbìn (crop rotation) ṣe pàtàkì nítorí ó ń tọ́jú ìlera ilẹ̀, ó ń dènà ìkùnà oúnjẹ ilẹ̀, ó sì ń ṣàkóso àwọn kòkòrò-irúgbìn tó lè ba irúgbìn jẹ́."}
+{"instruction": "State Newton's second law of motion.", "input": "", "output": "Òfin Newton kejì sọ pé agbára (F) tí ó ń ṣiṣẹ́ lórí nǹkan dọ́gba pẹ̀lú ìwọ̀n ara (m) nǹkan náà pẹ̀lú ìyára kánkán (a) rẹ̀. Àgbékalẹ̀ rẹ̀ ni F = ma."}
+{"instruction": "Define a cell membrane.", "input": "", "output": "Mẹ́mírẹ̀nì sẹ́ẹ̀lì (cell membrane) ni ìbòrò tí ó wà ní ìta sẹ́ẹ̀lì tí ó ń ṣàkóso ohun tí ó ń wọlé àti ohun tí ó ń jáde nínú sẹ́ẹ̀lì."}
+{"instruction": "What is the function of the nucleus in a cell?", "input": "", "output": "Niúkíléọ̀sì (nucleus) ni ibùdó ìṣàkóso sẹ́ẹ̀lì. Ó ń tọ́jú nǹkan jẹ́nétììkì (DNA) tí ó ń darí gbogbo iṣẹ́ sẹ́ẹ̀lì."}
+{"instruction": "Calculate the area of a triangle with base 10cm and height 5cm.", "input": "", "output": "Ààyè tíríàngùlù ni ìdajì ìpìlẹ̀ tísì gíga. Ìdajì 10cm ni 5cm. 5cm * 5cm = 25cm². Ààyè rẹ̀ ni 25cm²."}
+{"instruction": "Describe the greenhouse effect.", "input": "", "output": "Ipá gbà-ooru (greenhouse effect) ń ṣẹlẹ̀ nígbà tí ooru bá wà nínú ayé tí ó sì ń mú kí ìwọ̀n ooru ayé pọ̀ sí i nítorí àwọn gáàsì kan nínú afẹ́fẹ́."}
+{"instruction": "How do plants transport water?", "input": "", "output": "Ewéko ń lo ksaílẹ̀mù (xylem) láti gbé omi láti inú gbòngbò lọ sí gbogbo apá ewéko yòókù."}
+{"instruction": "What is the atomic number?", "input": "", "output": "Nọ́mbà átọ́mù (atomic number) ni iye pùrótónì tí ó wà nínú niúkíléọ̀sì átọ́mù kan."}
+{"instruction": "Why are noble gases stable?", "input": "", "output": "Gáàsì ọlọ́lá (noble gases) dúró ṣinṣin nítorí àwọn ẹ̀lékítírírónì wọn ti kún dáadáa nínú ìpele wọn."}
+{"instruction": "What is soil fertility?", "input": "", "output": "Ìlera ilẹ̀ (soil fertility) ni agbára ilẹ̀ láti pèsè oúnjẹ tí ewéko nílò láti dàgbà dáadáa."}
+{"instruction": "Define a scalar quantity.", "input": "", "output": "Ìwọ̀n sẹ́kálà (scalar quantity) ni ìwọ̀n tí ó ní iye nìkan, kò ní ìtọ́sọ́nà (bíbẹ́ẹ̀ kọ́, vẹ́kítọ̀ ní ìtọ́sọ́nà)."}
+{"instruction": "How does pollination happen?", "input": "", "output": "Ìfọ̀tẹ̀ṣọ́-irúgbìn (pollination) ń ṣẹlẹ̀ nígbà tí pólẹ́ẹ̀nì bá kúrò lórí òdòdó kan lọ sí òmíràn, èyí tí ó ń mú kí èso wáyé."}
+{"instruction": "What is the pH scale?", "input": "", "output": "Tábìlì pH ń wọ̀n bí nǹkan ṣe jẹ́ ásìdì tàbí béesì tó. pH 7 jẹ́ òdodo (neutral), pH tí ó kéré ju 7 jẹ́ ásìdì, pH tí ó ju 7 lọ jẹ́ béesì."}
+{"instruction": "Explain the role of mitochondria.", "input": "", "output": "Mítókóndíríà (mitochondria) ni ibùdó agbára sẹ́ẹ̀lì. Ó ń pèsè agbára tí sẹ́ẹ̀lì nílò láti ṣiṣẹ́ nípasẹ̀ ìmí-kúrò sẹ́ẹ̀lì."}
+{"instruction": "What is a chemical formula?", "input": "", "output": "Àmì-kẹ́míkà (chemical formula) ń fi àwọn ẹ̀yà àti iye átọ́mù tí ó wà nínú mólíkùlù kan hàn."}
+{"instruction": "Describe the function of the phloem.", "input": "", "output": "Fólẹ̀mù (phloem) ń gbé oúnjẹ tí ewéko ṣe (gúlúkóòsì) láti àwọn ewé lọ sí ibi tí ewéko nílò agbára."}
+{"instruction": "What is genotype?", "input": "", "output": "Jẹ́nótáìpù (genotype) ni àdàpọ̀ jẹ́nétììkì ẹ̀dá kan tí ó pinnu àwọn ànímọ́ tí ó ní."}
+{"instruction": "What is an ecosystem?", "input": "", "output": "Ètò ìgbé-ayé (ecosystem) jẹ́ àkójọpọ̀ àwọn ohun alààyè àti àwọn nǹkan tí kò lẹ̀mí nínú àyíká kan tí wọ́n ń bá ara wọn ṣiṣẹ́ pọ̀."}
+{"instruction": "Solve for x in the equation 3x + 4 = 10.", "input": "", "output": "Láti dáhùn ìṣirò yìí, kọ́kọ́ yọ 4 kúrò nínú 10, èyí tí ó fi 6 sílẹ̀. Lẹ́yìn náà, pín 6 pẹ̀lú 3. Nípa bẹ́ẹ̀, x = 2."}
+{"instruction": "What is inertia?", "input": "", "output": "Ìfọ̀rọ̀-sí-orí-dúró (inertia) ni ànímọ́ nǹkan tí ń mú kí ó kọ̀ láti yí ipò rẹ̀ padà bí agbára kankan kò bá ṣiṣẹ́ lórí rẹ̀."}
+{"instruction": "Why is nitrogen important for plants?", "input": "", "output": "Náìtíròjẹ̀nì (nitrogen) ṣe pàtàkì nítorí ó ń ran ewéko lọ́wọ́ láti dagba dáadáa, ó sì ń jẹ́ kí ewé ewéko wà ní àwọ̀ ewé tí ó tọ́."}
+{"instruction": "Define a polygon.", "input": "", "output": "Pólígọ̀nù (polygon) ni ìrísí tí ó tì tí ó ní ẹ̀gbẹ́ títọ́ mẹ́ta tàbí jù bẹ́ẹ̀ lọ."}
+{"instruction": "How do plants and animals differ in respiration?", "input": "", "output": "Àwọn ewéko ń fa kábọ̀nì dáyọ́ọ́ìdì wọlé tí wọ́n sì ń tú ọ̀sìgíìì jáde, nígbà tí àwọn ẹranko ń fa ọ̀sìgíìì wọlé tí wọ́n sì ń tú kábọ̀nì dáyọ́ọ́ìdì jáde."}
+{"instruction": "What is a catalyst?", "input": "", "output": "Kátálísì (catalyst) ni nǹkan tí ó ń mú kí ìṣiṣẹ́ kẹ́míkà yára sí i láìjẹ́ pé ó ń parun nínú ìṣiṣẹ́ náà."}
+{"instruction": "Explain the Pythagorean theorem.", "input": "", "output": "Òfin Pítágóòrù sọ pé nínú tíríàngùlù oní-igun-ọ̀tún, ìtẹ̀wọ̀n-igun-ọ̀tún lẹ́ẹ̀mẹ́ta dọ́gba pẹ̀lú àpapọ̀ àwọn ẹ̀gbẹ́ yòókù lẹ́ẹ̀mẹ́ta."}
+{"instruction": "What is a variable in algebra?", "input": "", "output": "Fẹ́ríábùlù (variable) ni àmì tàbí lẹ́tà tí ó dúró fún iye tí a kò mọ̀ nínú ìṣirò."}
+{"instruction": "What is evaporation?", "input": "", "output": "Ìyọ́-omi-lọ́wọ́-ooru (evaporation) ni ìyípadà omi láti ipò olómi di gáàsì (afẹ́fẹ́) nípasẹ̀ ooru."}
+{"instruction": "Why do we need farm records?", "input": "", "output": "Àkọsílẹ̀ oko ṣe pàtàkì nítorí ó ń ran àgbẹ̀ lọ́wọ́ láti mọ èrè tàbí òfò tí ó ṣe ní kọ̀ọ̀kan."}
+{"instruction": "Define an isotope.", "input": "", "output": "Ísótópù (isotope) ni átọ́mù tí ó ní iye pùrótónì kan náà ṣùgbọ́n tí ó ní iye niútrónì tí ó yàtọ̀."}
+{"instruction": "What is potential energy?", "input": "", "output": "Agbára ìpamọ́ (potential energy) ni agbára tí nǹkan ní nítorí ipò tàbí ìrísí rẹ̀."}
+{"instruction": "Describe pollination.", "input": "", "output": "Ìfọ̀tẹ̀ṣọ́-irúgbìn (pollination) ni ìlànà gígbe pólẹ́ẹ̀nì kúrò lórí òdòdó kan lọ sí ibi tí ó ń ṣe èso."}
+{"instruction": "How do you find the mean of a data set?", "input": "", "output": "Láti rí míìnì (mean), ṣàpapọ̀ gbogbo iye tí ó wà nínú ìsọfúnni náà, lẹ́yìn náà pín rẹ̀ pẹ̀lú iye àwọn nǹkan tí ó wà níbẹ̀."}
+{"instruction": "What is a chemical bond?", "input": "", "output": "Ìdè kẹ́míkà (chemical bond) ni agbára tí ó ń so àwọn átọ́mù pọ̀ nínú mólíkùlù."}
+{"instruction": "Define a prime number.", "input": "", "output": "Nọ́mbà ọ̀tọ̀ (prime number) ni nọ́mbà tí a kò lè pín pẹ̀lú ohunkóhun yàtọ̀ sí ọ̀kan àti ara rẹ̀."}
+{"instruction": "Why is water a universal solvent?", "input": "", "output": "Omi ni sọ́lúṣọ̀nù fún gbogbo nǹkan (universal solvent) nítorí ó ní agbára láti yọ́ ọ̀pọ̀lọpọ̀ àwọn nǹkan míràn."}
+{"instruction": "What is the difference between speed and velocity?", "input": "", "output": "Ìyára (speed) ni ìwọ̀n bí nǹkan ṣe ń rìn, nígbà tí ìyára ìtọ́sọ́nà (velocity) ni ìwọ̀n bí nǹkan ṣe ń rìn pẹ̀lú ìtọ́sọ́nà pàtó."}
+{"instruction": "Describe the function of the cell wall.", "input": "", "output": "Ògiri sẹ́ẹ̀lì (cell wall) ń pèsè ààbò àti ìrísí líle fún sẹ́ẹ̀lì ewéko."}
+{"instruction": "Explain the quadratic formula.", "input": "", "output": "Fọ́ọ̀múlù kwádírátì (quadratic formula) ni x = (-b ± √(b² - 4ac)) / 2a. A ń lò ó láti wá iye x nínú ìṣirò kwádírátì nígbà tí a kò bá lè sọ ìṣirò náà di ọ̀kọ̀ọ̀kan."}
+{"instruction": "How do photosynthesis and respiration differ?", "input": "", "output": "Ìṣiṣẹ́-oòrùn-sínú-ewé (photosynthesis) ń lo agbára láti ṣe oúnjẹ, nígbà tí ìmí-kúrò (respiration) ń tú agbára kúrò láti inú oúnjẹ náà."}
+{"instruction": "Why is irrigation necessary for crops?", "input": "", "output": "Ìtọ́jú-omi (irrigation) pọn dandan nígbà tí òjò kò bá rọ̀ dáadáa, kí ewéko lè rí omi tó tó láti dàgbà."}
+{"instruction": "Define valency in chemistry.", "input": "", "output": "Fẹ́lẹ́nsì (valency) ni agbára átọ́mù láti so mọ́ àwọn átọ́mù mìíràn, èyí tí ó dá lórí iye ẹ̀lékítírírónì tí ó wà ní ìpele ìta."}
+{"instruction": "What is the relationship between force and acceleration?", "input": "", "output": "Agbára (force) àti ìyára kánkán (acceleration) ní ìbáṣepọ̀ tó dọ́gba. Bí agbára bá ṣe ń pọ̀ sí i, bẹ́ẹ̀ ni ìyára kánkán nǹkan yóò ṣe pọ̀ sí i."}
+{"instruction": "How can you verify a right-angled triangle?", "input": "", "output": "O leè mọ tíríàngùlù oní-igun-ọ̀tún nípa lílo òfin Pítágóòrù: àpapọ̀ ẹ̀gbẹ́ méjì tí ó kéré ní ìwọ̀n nígbà tí a bá fi wọ́n pọ̀ lẹ́ẹ̀mẹ́ta yóò dọ́gba pẹ̀lú ẹ̀gbẹ́ tí ó gùn jù."}
+{"instruction": "What is the structure of DNA?", "input": "", "output": "DNA ní ìrísí bíi àtẹ̀gùn (double helix). Ó jẹ́ àkójọpọ̀ àwọn ìpìlẹ̀ tí ó ń tọ́jú ìsọfúnni jẹ́nétììkì."}
+{"instruction": "What is the difference between an acid and a base?", "input": "", "output": "Ásìdì (acid) ń pèsè áónìì háídíròjẹ̀nì nínú omi, nígbà tí béesì (base) ń pèsè áónìì háídíròksáìdì."}
+{"instruction": "Why is vaccination vital in livestock?", "input": "", "output": "Ìtẹ̀jú-àìsàn (vaccination) ṣe pàtàkì nítorí ó ń kọ́ ètò ààbò ara ẹran láti kọ̀ láti kó àrùn kan pàtó."}
+{"instruction": "What is the volume of a cube?", "input": "", "output": "Ìwọ̀n ààyè kùúbù ni ẹ̀gbẹ́ rẹ̀ lẹ́ẹ̀mẹ́ta (side * side * side)."}
+{"instruction": "Define work in physics.", "input": "", "output": "Iṣẹ́ (work) nínú físíìsì ni agbára tí a lò láti gbé nǹkan kúrò ní ipò kan lọ sí òmíràn (agbára * ìjìnnà)."}
+{"instruction": "What is mitosis?", "input": "", "output": "Mítósì (mitosis) ni ìlànà ìpín-sẹ́ẹ̀lì tí ó ń mú kí sẹ́ẹ̀lì kan pín sí méjì tí wọ́n sì jọra gan-an nínú jẹ́nétììkì."}
+{"instruction": "How do electrons behave in ionic bonds?", "input": "", "output": "Nínú ìdè áónììkì, ẹ̀lékítírírónì ń kúrò lórí átọ́mù kan pátápátá lọ sí òmíràn."}
+{"instruction": "Why is organic matter important for soil?", "input": "", "output": "Ọ̀rọ̀-àdánidá (organic matter) ń mú kí ilẹ̀ lè jẹ́ kí omi àti afẹ́fẹ́ wọlé dáadáa, ó sì ń pèsè oúnjẹ fún ewéko."}
+{"instruction": "Calculate the median of 3, 5, 2, 7, 1.", "input": "", "output": "Kọ́kọ́ to nọ́mbà náà ní ọ̀wọ́: 1, 2, 3, 5, 7. Nọ́mbà tí ó wà láàárín ni 3. Nípa bẹ́ẹ̀, mídíánì ni 3."}
+{"instruction": "What causes sound?", "input": "", "output": "Ìró ń wáyé nípasẹ̀ ìgbì-ìrìn (vibrations) tí ó ń gba inú afẹ́fẹ́ tàbí ohun tí ó wà nítòsí."}
+{"instruction": "What are stomata?", "input": "", "output": "Sítómà (stomata) ni àwọn ihò kéékèèké tí ó wà lára ewé tí ó ń jẹ́ kí afẹ́fẹ́ wọlé kí ó sì jáde."}
+{"instruction": "What is molarity?", "input": "", "output": "Mólárítì (molarity) ni iye mólì (mole) nǹkan tí ó wà nínú lítà sọ́lúṣọ̀nù kan."}
+{"instruction": "How does crop storage help?", "input": "", "output": "Ìtọ́jú irúgbìn (crop storage) ń dènà ìbàjẹ́ àti ìpàdánù lẹ́yìn ìkórè, ó sì ń jẹ́ kí àgbẹ̀ lè tàá nígbà tí ó bá wù ú."}
+{"instruction": "Define a right angle.", "input": "", "output": "Igun ọ̀tún (right angle) ni igun tí ìwọ̀n rẹ̀ jẹ́ 90 díírì pàtó."}
+{"instruction": "What are the two stages of photosynthesis?", "input": "", "output": "Ìṣiṣẹ́-oòrùn-sínú-ewé (photosynthesis) ní ìpele méjì: ìpele tí ìmọ́lẹ̀ ń ṣiṣẹ́ (light-dependent reaction) àti ìpele tí ìmọ́lẹ̀ kò wà (Calvin cycle)."}
+{"instruction": "Describe the structure of an atom.", "input": "", "output": "Átọ́mù ní niúkíléọ̀sì nínú tí ó ní pùrótónì àti niútrónì, àti ẹ̀lékírírónì tí ń yí niúkíléọ̀sì náà ká."}
+{"instruction": "What is the Law of Conservation of Mass?", "input": "", "output": "Òfin ìdáàbò-bò-ìwọ̀n-ara (conservation of mass) sọ pé a kò lè dá nǹkan sílẹ̀ tàbí pa nǹkan run nínú ìṣiṣẹ́ kẹ́míkà; ó kàn ń yí padà láti ọ̀nà kan sí òmíràn."}
+{"instruction": "How do you calculate the surface area of a sphere?", "input": "", "output": "Ìwọ̀n-ààyè-lórí-bọ́ọ̀lù (sphere) ni 4πr², níbi tí 'r' jẹ́ ìwọ̀n gígùn láti àárín bọ́ọ̀lù dé ẹ̀gbẹ́ rẹ̀."}
+{"instruction": "What is the role of fertilizer in crop production?", "input": "", "output": "Ààtàn (fertilizer) ń pèsè àwọn oúnjẹ tí ó ṣe pàtàkì bíi náìtíròjẹ̀nì, fọ́sfọ̀rọ̀, àti pótáṣììùmù fún ilẹ̀ láti mú kí irúgbìn dàgbà dáadáa."}
+{"instruction": "Define velocity in physics.", "input": "", "output": "Ìyára ìtọ́sọ́nà (velocity) ni ìwọ̀n bí nǹkan ṣe ń yí ipò rẹ̀ padà pẹ̀lú ìtọ́sọ́nà pàtó."}
+{"instruction": "What is the function of ribosomes?", "input": "", "output": "Ríbósómù (ribosomes) ni ibùdó tí sẹ́ẹ̀lì ń lò láti ṣe èròjà-amínì (protein) tí ara nílò."}
+{"instruction": "What is a decimal number?", "input": "", "output": "Nọ́mbà-désiìmù (decimal number) ni nọ́mbà tí ó ń lo àmì-kànnà (decimal point) láti fi àwọn iye tí ó kéré ju òdodo kan lọ hàn."}
+{"instruction": "What is oxidation?", "input": "", "output": "Ìsọ-ásìdì (oxidation) nínú kẹ́míkà ń ṣẹlẹ̀ nígbà tí ẹ̀yà kan bá pàdánù ẹ̀lékírírónì."}
+{"instruction": "Describe the soil profile.", "input": "", "output": "Ìrísí-ilẹ̀ (soil profile) ni àwọn àkíyèsí àwọn àyípadà ilẹ̀ bí a bá ń wo àwọn ìpele ilẹ̀ láti òkè dé ìsàlẹ̀."}
+{"instruction": "What is friction?", "input": "", "output": "Ìfọ̀-kọ̀-ara (friction) ni agbára tí ó ń dènà ìṣiṣẹ́ tàbí ìrìn nǹkan méjì tí ó ń fi ara wọn kọ̀."}
+{"instruction": "How do sound waves travel?", "input": "", "output": "Ìgbì-ìró (sound waves) ń rìn nípasẹ̀ mímú àwọn nǹkan tí ó wà nínú afẹ́fẹ́ tàbí omi mì fún ara wọn."}
+{"instruction": "Solve for y in the equation y = 2x + 3, where x = 4.", "input": "", "output": "Láti rí y, fi 4 rọ́pò x: y = 2(4) + 3. y = 8 + 3, nítorí náà y = 11."}
+{"instruction": "What is a gamete?", "input": "", "output": "Gámẹ́tì (gamete) ni sẹ́ẹ̀lì ìbímọ (sẹ́ẹ̀lì ẹyin tàbí sẹ́ẹ̀lì àtọ̀) tí ó ní ìdajì iye kírómósómù ti sẹ́ẹ̀lì ara."}
+{"instruction": "What is the difference between an element and a compound?", "input": "", "output": "Ẹ̀yà kẹ́míkà (element) jẹ́ nǹkan tí a kò lè pín sí nǹkan míràn, nígbà tí àdàpọ̀ kẹ́míkà (compound) jẹ́ àkójọpọ̀ ẹ̀yà kẹ́míkà méjì tàbí jù bẹ́ẹ̀ lọ."}
+{"instruction": "How does mulching help the soil?", "input": "", "output": "Ìbò-ilẹ̀ (mulching) ń dènà ìyọ́-omi kúrò nínú ilẹ̀, ó sì ń pa ilẹ̀ mọ́ kúrò nínú kòkòrò àti koríko ẹgàn."}
+{"instruction": "Define kinetic energy.", "input": "", "output": "Agbára ìsúnni (kinetic energy) ni agbára tí nǹkan ní nítorí pé ó ń rìn."}
+{"instruction": "What is a perpendicular line?", "input": "", "output": "Ìlà tí ó kọjá lórí ara wọn (perpendicular line) ni ìlà méjì tí ó ṣẹ̀dá igun 90 díírì níbi tí wọ́n ti pàdé."}
+{"instruction": "What is a prokaryotic cell?", "input": "", "output": "Sẹ́ẹ̀lì púròkáríọ́tìkì (prokaryotic cell) ni sẹ́ẹ̀lì tí kò ní niúkíléọ̀sì tí a fi ara hàn."}
+{"instruction": "Why is pure water neutral?", "input": "", "output": "Omi mímọ́ jẹ́ òdodo (neutral, pH 7) nítorí pé iye áónìì háídíròjẹ̀nì rẹ̀ dọ́gba pẹ̀lú iye áónìì háídíròksáìdì rẹ̀."}
+{"instruction": "What is a satellite?", "input": "", "output": "Sátẹ́láìtì (satellite) ni nǹkan tí ó ń yí ayé tàbí pílánẹ́ẹ̀tì mìíràn ká fún àwọn èrè bíi ìbánisọ̀rọ̀ tàbí àkíyèsí ojú-ọjọ́."}
+{"instruction": "Define force.", "input": "", "output": "Agbára (force) ni títì tàbí fífà nǹkan tí ó ń mú kí nǹkan yí ipò rẹ̀ padà tàbí kí ó tẹ́ lọ́wọ́."}
+{"instruction": "Why is carbon dioxide important for plants?", "input": "", "output": "Kábọ̀nì dáyọ́ọ́ìdì (carbon dioxide) ṣe pàtàkì nítorí ewéko ń lò ó láti ṣe oúnjẹ nípasẹ̀ ìmọ́lẹ̀ oòrùn."}
+{"instruction": "How do you find the area of a circle?", "input": "", "output": "Ààyè síríkì ni πr², níbi tí 'r' jẹ́ ìwọ̀n gígùn láti àárín síríkì dé ẹ̀gbẹ́ rẹ̀."}
+{"instruction": "What is a mutation?", "input": "", "output": "Mútéṣọ̀nì (mutation) ni àyípadà tí ó wáyé nínú DNA ẹ̀dá, èyí tí ó lè yí ànímọ́ rẹ̀ padà."}
+{"instruction": "Define work done in science.", "input": "", "output": "Iṣẹ́ (work done) ni agbára tí a fi ṣiṣẹ́ lórí nǹkan tí ó sì mú kí nǹkan náà kúrò ní ibi kan dé òmíràn (agbára * ìjìnnà)."}
+{"instruction": "What is an alloy?", "input": "", "output": "Àlọ́ì (alloy) ni àdàpọ̀ àwọn ẹ̀yà kẹ́míkà méjì tàbí jù bẹ́ẹ̀ lọ, tí ó kéré tán ọ̀kan nínú wọn gbọ́dọ̀ jẹ́ irin."}
+{"instruction": "Why is oxygen necessary for respiration?", "input": "", "output": "Ọ̀sìgíìì (oxygen) ṣe pàtàkì nítorí ó ń ran sẹ́ẹ̀lì lọ́wọ́ láti tú agbára kúrò nínú oúnjẹ tí a jẹ."}
+{"instruction": "Explain density.", "input": "", "output": "Ìwọ̀n-dídì (density) ni ìwọ̀n ara nǹkan fún ìwọ̀n ààyè tí ó gbé (mass / volume)."}
+{"instruction": "What is a reactant in chemistry?", "input": "", "output": "Ríẹ́kítàntì (reactant) ni nǹkan tí ó ń bẹ̀rẹ̀ ìṣiṣẹ́ kẹ́míkà, èyí tí a ń tò lẹ́gbẹ̀ẹ́ òsì nínú ìṣirò kẹ́míkà."}
+{"instruction": "Define a vector quantity.", "input": "", "output": "Vẹ́kítọ̀ (vector quantity) ni ìwọ̀n tí ó ní iye àti ìtọ́sọ́nà (bíbẹ́ẹ̀ kọ́, sẹ́kálà kò ní ìtọ́sọ́nà)."}
+{"instruction": "Why is the nucleus dense?", "input": "", "output": "Niúkíléọ̀sì (nucleus) pọ̀ ní ìwọ̀n nítorí ó ní nínú pùrótónì àti niútrónì tí wọ́n jẹ́ ẹrù-wúwo átọ́mù."}
+{"instruction": "What is crop failure?", "input": "", "output": "Ìkùnà irúgbìn (crop failure) ni ìpàdánù irúgbìn tí ó wáyé nípasẹ̀ àrùn, kòkòrò, tàbí àìtó omi."}
+{"instruction": "How does a lever work?", "input": "", "output": "Léfà (lever) jẹ́ ẹ̀rọ-ìrànlọ́wọ́ tí ó ń lo ààyè àti ibùdó láti mú kí agbára tí a lò pọ̀ sí i."}
+{"instruction": "What is a physical change?", "input": "", "output": "Àyípadà fìsíkà (physical change) ni àyípadà nǹkan tí kò yí iye kẹ́míkà nǹkan náà padà (bíbẹ́ẹ̀ kọ́, àyípadà kẹ́míkà ń yí ẹ̀yà rẹ̀ padà)."}
+{"instruction": "What is chlorophyll?", "input": "", "output": "Kílórófììlì (chlorophyll) ni àwọ̀ ewé tí ó ń gba ìmọ́lẹ̀ oòrùn fún ìṣiṣẹ́-oòrùn-sínú-ewé."}
+{"instruction": "Why is soil drainage important?", "input": "", "output": "Ìṣàn-omi-ilẹ̀ (soil drainage) ṣe pàtàkì nítorí ó ń dènà kí omi pọ̀ jù nínú ilẹ̀ kí ó má bàa pa gbòngbò ewéko."}
+{"instruction": "What is a product in chemistry?", "input": "", "output": "Pródọ́ọ̀ktì (product) ni nǹkan tí ó jáde lẹ́yìn ìṣiṣẹ́ kẹ́míkà, èyí tí a ń tò lẹ́gbẹ̀ẹ́ ọ̀tún nínú ìṣirò kẹ́míkà."}
+{"instruction": "Define acceleration.", "input": "", "output": "Ìyára kánkán (acceleration) ni oṣùwọ̀n àyípadà ìyára ìtọ́sọ́nà nǹkan bí àkókò bá ń lọ."}
+{"instruction": "How do you identify a balanced equation?", "input": "", "output": "Ìṣirò tí ó dọ́gba (balanced equation) ni èyí tí iye átọ́mù kọ̀ọ̀kan dọ́gba ní ẹ̀gbẹ́ òsì àti ẹ̀gbẹ́ ọ̀tún."}
+{"instruction": "Calculate the square root of 64.", "input": "", "output": "Gbòngbò-ìṣirò 64 jẹ́ 8, nítorí 8 * 8 = 64."}
+{"instruction": "What is an ecosystem hierarchy?", "input": "", "output": "Ìtẹ̀lé-ìgbé-ayé (ecosystem hierarchy) bẹ̀rẹ̀ láti ọ̀dọ̀ ẹ̀dá kan, ó lọ sí iye ẹ̀dá kan náà (population), àwọn ẹ̀dá ọ̀tọ̀ọ̀tọ̀ (community), àti ibi tí wọ́n ń gbé (ecosystem)."}
+{"instruction": "What is the difference between mass and weight?", "input": "", "output": "Ìwọ̀n ara (mass) ni iye nǹkan tí ó wà nínú ara, nígbà tí ìwọ̀n-irú-nǹkan (weight) ni agbára tí ayé ń fà fún nǹkan náà."}
+{"instruction": "Define a solute and a solvent.", "input": "", "output": "Sólúùtù (solute) ni nǹkan tí a ń yọ́, nígbà tí sólúvẹ́ntì (solvent) ni nǹkan (bí omi) tí ó ń yọ́ sólúùtù náà."}
+{"instruction": "Explain transpiration.", "input": "", "output": "Ìyọ́-omi-kúrò-nínú-ewé (transpiration) ni ìlànà tí ewéko ń fi omi tí ó pọ̀ jù sílẹ̀ nípasẹ̀ àwọn sítómà tí ó wà lára ewé."}
+{"instruction": "Expand the expression (x + 3)(x + 2).", "input": "", "output": "Láti ṣí ìṣirò yìí, lo ìlànà FOIL: x*x + x*2 + 3*x + 3*2. Èyí yóò jẹ́ x² + 2x + 3x + 6, èyí tí ó jẹ́ x² + 5x + 6."}
+{"instruction": "What are dominant and recessive traits?", "input": "", "output": "Ànímọ́ tí ó lágbára (dominant trait) ń hàn gbangba, nígbà tí ànímọ́ tí kò lágbára (recessive trait) kì í hàn àyàfi bí ẹ̀dá náà bá ní àwọn jẹ́nì náà méjì."}
+{"instruction": "State Ohm's Law.", "input": "", "output": "Òfin Ohm sọ pé kọ́ọ̀ǹtì ẹ̀lékítíríkì (I) dọ́gba pẹ̀lú fọ́ọ̀tìì (V) tí a pín pẹ̀lú rèsìstànsì (R). Àgbékalẹ̀ rẹ̀ ni V = IR."}
+{"instruction": "How do you optimize soil pH?", "input": "", "output": "Láti ṣàtúnṣe pH ilẹ̀, a ń lo àwọn nǹkan bíi gíìsì (lime) tí ilẹ̀ bá jẹ́ ásìdì, tàbí sọ́ọ́lúfà (sulfur) tí ilẹ̀ bá jẹ́ béesì."}
+{"instruction": "What is the main difference between mitosis and meiosis?", "input": "", "output": "Mítósì ń mú kí sẹ́ẹ̀lì kan pín sí méjì tí wọ́n jọra, nígbà tí mẹ́íósì ń mú kí sẹ́ẹ̀lì kan pín sí mẹ́rin tí wọ́n ní ìdajì kírómósómù ti sẹ́ẹ̀lì ìbẹ̀rẹ̀."}
+{"instruction": "What is the periodic table?", "input": "", "output": "Tábìlì ìtẹ̀lé-ìwọ̀n (periodic table) ni ibùdó tí ó ń tò gbogbo àwọn ẹ̀yà kẹ́míkà gẹ́gẹ́ bí nọ́mbà átọ́mù wọn."}
+{"instruction": "Explain the Law of Conservation of Energy.", "input": "", "output": "Òfin ìdáàbò-bò-agbára sọ pé a kò lè dá agbára sílẹ̀ tàbí pa á run; ó kàn ń yí padà láti ọ̀nà kan sí òmíràn."}
+{"instruction": "Define a cylinder.", "input": "", "output": "Sílìndà (cylinder) ni ìrísí 3D tí ó ní ìpìlẹ̀ síríkì méjì tí ó dọ́gba àti ẹ̀gbẹ́ tí ó yí ká."}
+{"instruction": "What is the function of stomata in photosynthesis?", "input": "", "output": "Sítómà ń ṣiṣẹ́ gẹ́gẹ́ bí ẹnu ewéko; ó ń jẹ́ kí kábọ̀nì dáyọ́ọ́ìdì wọlé fún ìṣiṣẹ́-oòrùn-sínú-ewé."}
+{"instruction": "How does temperature affect chemical reaction rate?", "input": "", "output": "Bí ooru bá ṣe ń pọ̀ sí i, bẹ́ẹ̀ ni àwọn átọ́mù yóò ṣe ń yára nù, èyí tí ó ń mú kí ìṣiṣẹ́ kẹ́míkà yára sí i."}
+{"instruction": "What is a balanced diet for livestock?", "input": "", "output": "Oúnjẹ tó dọ́gba fún ẹran-ọ̀sìn ni àkójọpọ̀ èròjà-amínì, kàbóhàìdrétì, ọ̀rá, àti àwọn nǹkan mìíràn tí ẹran nílò láti dàgbà."}
+{"instruction": "Define atomic mass.", "input": "", "output": "Ìwọ̀n ara átọ́mù (atomic mass) ni àpapọ̀ pùrótónì àti niútrónì tí ó wà nínú niúkíléọ̀sì átọ́mù kan."}
+{"instruction": "What are congruent triangles?", "input": "", "output": "Tíríàngùlù tí ó dọ́gba-kẹ́lẹ́ (congruent triangles) ni àwọn tíríàngùlù tí wọ́n ní ẹ̀gbẹ́ àti igun tí ó jọra gan-an."}
+{"instruction": "What is renewable energy?", "input": "", "output": "Agbára tí kò ń tán (renewable energy) ni agbára tí ó ń wá láti orísun tí kò leè tán, bíi ìmọ́lẹ̀ oòrùn àti afẹ́fẹ́."}
+{"instruction": "Define biodiversity.", "input": "", "output": "Báíòdáìfọ́sìtì (biodiversity) ni ọ̀pọ̀lọpọ̀ ẹ̀dá alààyè tí ó wà nínú ayé tàbí nínú ibùdó kan."}
+{"instruction": "What is an electron shell?", "input": "", "output": "Ìpele ẹ̀lékírírónì (electron shell) ni ipa ọ̀nà tí àwọn ẹ̀lékírírónì ń tẹ̀lé yí niúkíléọ̀sì ká nínú átọ́mù."}
+{"instruction": "Why do plants need roots?", "input": "", "output": "Gbòngbò ń ran ewéko lọ́wọ́ láti dúró dáadáa, wọ́n ń fa omi, wọ́n sì ń fa àwọn oúnjẹ tí ó wà nínú ilẹ̀."}
+{"instruction": "State Newton's first law of motion.", "input": "", "output": "Òfin Newton àkọ́kọ́ sọ pé nǹkan yóò wà ní ipò rẹ̀ (tí ó bá dúró tàbí tí ó ń rìn) bí agbára kankan kò bá ṣiṣẹ́ lórí rẹ̀."}
+{"instruction": "What is the result of 25% of 200?", "input": "", "output": "25% jẹ́ ìdámẹ́rin. Ìdámẹ́rin 200 jẹ́ 50."}
+{"instruction": "Define a solution in chemistry.", "input": "", "output": "Sólúṣọ̀nù (solution) ni àdàpọ̀ kan tí sólúùtù àti sólúvẹ́ntì ti dà pọ̀ tó bẹ́ẹ̀ tí kò ṣeé yà sọ́tọ̀."}
+{"instruction": "How do pests affect crop yield?", "input": "", "output": "Kòkòrò-irúgbìn ń jẹ ewé tàbí èso irúgbìn, èyí tí ó ń dín ìkórè kù, ó sì lè fa ìkùnà irúgbìn pátápátá."}
+{"instruction": "What is the unit of force?", "input": "", "output": "Niú́tónì (Newton) ni ìwọ̀n tí a ń lò láti wọ̀n agbára."}
+{"instruction": "Explain the role of chlorophyll.", "input": "", "output": "Kílórófììlì (chlorophyll) ni àwọ̀ ewé tí ó ń gba ìmọ́lẹ̀ oòrùn, ó sì jẹ́ ibi tí ìṣiṣẹ́-oòrùn-sínú-ewé ti ń ṣẹlẹ̀."}
+{"instruction": "What is heredity?", "input": "", "output": "Ìjogún (heredity) ni ìlànà tí àwọn òbí ń gbé àwọn ànímọ́ jẹ́nétììkì lọ sí ọmọ wọn."}
+{"instruction": "How do you calculate the perimeter of a rectangle?", "input": "", "output": "Ìyípo rẹ́kítàngùlù ni àpapọ̀ gbogbo ẹ̀gbẹ́ rẹ̀ (2 * (gígùn + gbígbòòrò))."}
+{"instruction": "What is the function of the cell membrane?", "input": "", "output": "Mẹ́mírẹ̀nì sẹ́ẹ̀lì ń ṣàkóso ohun tí ó ń wọlé àti ohun tí ó ń jáde nínú sẹ́ẹ̀lì, ó sì ń dáàbò bo sẹ́ẹ̀lì."}
+{"instruction": "Define an ionic bond.", "input": "", "output": "Ìdè áónììkì (ionic bond) ń ṣẹlẹ̀ nígbà tí átọ́mù kan bá fi ẹ̀lékírírónì rẹ̀ fún átọ́mù mìíràn pátápátá."}
+{"instruction": "What is a chemical reaction?", "input": "", "output": "Ìṣiṣẹ́ kẹ́míkà (chemical reaction) ni ìlànà tí àwọn átọ́mù ń yí ipò wọn padà láti ṣe nǹkan tuntun."}
+{"instruction": "Why is soil water retention important?", "input": "", "output": "Ìdúró-omi-nínú-ilẹ̀ (water retention) ṣe pàtàkì nítorí ó ń jẹ́ kí ewéko rí omi mí nígbà tí òjò kò bá rọ̀."}
+{"instruction": "What is a prime factor?", "input": "", "output": "Fákítọ̀ ọ̀tọ̀ (prime factor) ni nọ́mbà ọ̀tọ̀ tí ó lè pín nọ́mbà kan pẹ̀lú òdodo (láìsí àṣẹ́kù)."}
+{"instruction": "Describe the function of ribosomes.", "input": "", "output": "Ríbósómù (ribosomes) ni ibùdó tí sẹ́ẹ̀lì ń lò láti ṣe èròjà-amínì (protein) tí ara nílò."}
+{"instruction": "How do sound waves travel?", "input": "", "output": "Ìgbì-ìró (sound waves) ń rìn nípasẹ̀ mímú àwọn nǹkan tí ó wà nínú afẹ́fẹ́ tàbí omi mì fún ara wọn."}
+{"instruction": "Define potential energy.", "input": "", "output": "Agbára ìpamọ́ (potential energy) ni agbára tí nǹkan ní nítorí ipò tàbí ìrísí rẹ̀."}
+{"instruction": "What is a mutation?", "input": "", "output": "Mútéṣọ̀nì (mutation) ni àyípadà tí ó wáyé nínú DNA ẹ̀dá, èyí tí ó lè yí ànímọ́ rẹ̀ padà."}
+{"instruction": "What is a compound?", "input": "", "output": "Àdàpọ̀ kẹ́míkà (compound) ni nǹkan tí ó wáyé nípasẹ̀ ìdapọ̀ ẹ̀yà kẹ́míkà méjì tàbí jù bẹ́ẹ̀ lọ."}
+{"instruction": "What is displacement in physics?", "input": "", "output": "Ìyípo-ipò (displacement) ni ìwọ̀n ìyàtọ̀ láàárín ibi tí nǹkan ti bẹ̀rẹ̀ àti ibi tí ó parí sí pẹ̀lú ìtọ́sọ́nà."}
+{"instruction": "Why is nitrogen essential for plant growth?", "output": "Náìtíròjẹ̀nì (nitrogen) ṣe pàtàkì nítorí ó jẹ́ èròjà tí ó ń jẹ́ kí ewé ewéko pọ̀, ó sì ń ran ewéko lọ́wọ́ láti ṣe èròjà-amínì (protein) tí wọ́n nílò."}
+{"instruction": "Define a fraction.", "input": "", "output": "Fírákṣọ̀nù (fraction) ni apá kan nǹkan tí ó kún (àwọn nọ́mbà tí a fi ń fi ìdajì tàbí ìdá-mẹ́rin hàn)."}
+{"instruction": "What is the function of a ribosome?", "input": "", "output": "Ríbósómù (ribosomes) ni ibùdó sẹ́ẹ̀lì tí ó ń ṣe èròjà-amínì (protein) tí ara nílò láti dàgbà."}
+{"instruction": "How do you calculate speed?", "input": "", "output": "Láti rí ìyára (speed), pín ìjìnnà tí nǹkan rìn pẹ̀lú àkókò tí ó lò."}
+{"instruction": "What is a covalent bond?", "input": "", "output": "Ìdè kòfélẹ́ǹtì (covalent bond) ń ṣẹlẹ̀ nígbà tí àwọn átọ́mù méjì bá pín ẹ̀lékírírónì láàárín ara wọn."}
+{"instruction": "What is anaerobic respiration?", "input": "", "output": "Ìmí-kúrò-láìsí-ọ̀sìgíìì (anaerobic respiration) ni ìlànà tí sẹ́ẹ̀lì ń lò láti tú agbára kúrò nínú oúnjẹ láìní ọ̀sìgíìì."}
+{"instruction": "Define a gene.", "input": "", "output": "Jíìnì (gene) ni apá DNA tí ó ń darí ànímọ́ kan pàtó tí ẹ̀dá kan ní."}
+{"instruction": "How does fertilizer affect soil pH?", "input": "", "output": "Àwọn ààtàn kan leè mú kí ilẹ̀ jẹ́ ásìdì, nígbà tí àwọn mìíràn leè mú kí ó jẹ́ béesì; nítorí náà, àgbẹ̀ gbọ́dọ̀ ṣàyẹ̀wò ilẹ̀ rẹ̀."}
+{"instruction": "Solve for x: 12 / x = 3.", "input": "", "output": "Láti rí x, pín 12 pẹ̀lú 3. Nípa bẹ́ẹ̀, x = 4."}
+{"instruction": "What is a physical property?", "input": "", "output": "Ànímọ́ fìsíkà (physical property) ni ànímọ́ nǹkan tí a lè rí tàbí wọ̀n láìyí ẹ̀yà kẹ́míkà rẹ̀ padà (bíi àwọ̀ tàbí ìwọ̀n)."}
+{"instruction": "What is acceleration due to gravity?", "input": "", "output": "Ìyára kánkán ayé (gravity) ni ìwọ̀n 9.8 m/s², èyí tí ó ń fa gbogbo nǹkan mọ́lẹ̀ sí orí ilẹ̀."}
+{"instruction": "Describe the function of the phloem.", "input": "", "output": "Fólẹ̀mù (phloem) ni ọ̀nà tí ewéko ń lò láti gbé oúnjẹ (gúlúkóòsì) láti àwọn ewé lọ sí àwọn ibi mìíràn tí ewéko nílò agbára."}
+{"instruction": "What is acid-base neutralization?", "input": "", "output": "Ìdọ́gba-ásìdì-àti-béesì (neutralization) ń ṣẹlẹ̀ nígbà tí ásìdì bá pàdé béesì, tí wọ́n sì ń mú kí ipá wọn dín kù láti di omi àti ṣọ́ọ̀tì (salt)."}
+{"instruction": "Define Atomic Mass vs Atomic Number.", "input": "", "output": "Nọ́mbà átọ́mù (atomic number) ni iye pùrótónì, nígbà tí ìwọ̀n ara átọ́mù (atomic mass) ni àpapọ̀ pùrótónì àti niútrónì."}
+{"instruction": "What is the function of the stigma in a flower?", "input": "", "output": "Sítígímà (stigma) ni ibùdó tí ó ń gba pólẹ́ẹ̀nì nígbà ìfọ̀tẹ̀ṣọ́-irúgbìn."}
+{"instruction": "Define mechanical advantage.", "input": "", "output": "Àǹfààní-ẹ̀rọ (mechanical advantage) ni ìwọ̀n bí ẹ̀rọ kan ṣe ń mú kí agbára tí a lò pọ̀ sí i."}
+{"instruction": "What is a hydrocarbon?", "input": "", "output": "Háídírò-kábọ̀nì (hydrocarbon) ni àdàpọ̀ kẹ́míkà tí ó ní háídíròjẹ̀nì àti kábọ̀nì nìkan."}
+{"instruction": "Define an equilateral triangle.", "input": "", "output": "Tíríàngùlù oní-ẹ̀gbẹ́-dọ́gba (equilateral triangle) ni tíríàngùlù tí gbogbo ẹ̀gbẹ́ rẹ̀ àti igun rẹ̀ dọ́gba (60 díírì)."}
+{"instruction": "What is the difference between a square and a rectangle?", "input": "", "output": "Rẹ́kítàngùlù ní ẹ̀gbẹ́ tí ó kọjú sí ara wọn tí ó dọ́gba, nígbà tí kwẹ́ẹ́rì ní gbogbo ẹ̀gbẹ́ mẹ́rin tí ó dọ́gba."}
+{"instruction": "Define velocity.", "input": "", "output": "Ìyára ìtọ́sọ́nà (velocity) ni ìwọ̀n bí nǹkan ṣe ń rìn pẹ̀lú ìtọ́sọ́nà pàtó nínú físíìsì."}
+{"instruction": "What are enzymes?", "input": "", "output": "Èńsaímù (enzymes) ni kátálísì ẹ̀dá (biological catalysts) tí ó ń mú kí ìṣiṣẹ́ sẹ́ẹ̀lì yára sí i."}
+{"instruction": "Explain biological control in pest management.", "input": "", "output": "Ìṣàkóso ẹ̀dá-alààyè (biological control) ni lílo kòkòrò tàbí ẹ̀dá míràn láti pa kòkòrò-irúgbìn láìlò oògùn-kẹ́míkà."}
+{"instruction": "What is valency?", "input": "", "output": "Fẹ́lẹ́nsì (valency) ni agbára átọ́mù láti so mọ́ àwọn átọ́mù mìíràn, èyí tí ó dá lórí ẹ̀lékírírónì tí ó wà ní ìpele ìta."}
+{"instruction": "State the Pythagorean theorem.", "input": "", "output": "Òfin Pítágóòrù sọ pé nínú tíríàngùlù oní-igun-ọ̀tún, ìtẹ̀wọ̀n-igun-ọ̀tún lẹ́ẹ̀mẹ́ta dọ́gba pẹ̀lú àpapọ̀ ẹ̀gbẹ́ yòókù lẹ́ẹ̀mẹ́ta."}
+{"instruction": "What is cross-pollination?", "input": "", "output": "Ìfọ̀tẹ̀ṣọ́-irúgbìn-láàárín-òdòdó-méjì (cross-pollination) ni ìlànà tí pólẹ́ẹ̀nì bá kúrò lórí òdòdó kan lọ sí ibòmíràn."}
+{"instruction": "State Ohm's Law.", "input": "", "output": "Òfin Ohm sọ pé fọ́ọ̀tìì (V) dọ́gba pẹ̀lú kọ́ọ̀ǹtì (I) pẹ̀lú rèsìstànsì (R). Àgbékalẹ̀ rẹ̀ ni V = IR."}
+{"instruction": "Define a genotype.", "input": "", "output": "Jẹ́nótáìpù (genotype) ni àkójọpọ̀ jẹ́nétììkì tí ẹ̀dá kan ní, èyí tí ó pinnu àwọn ànímọ́ rẹ̀."}
+{"instruction": "What is an obtuse angle?", "input": "", "output": "Igun-tí-ó-tóbi-ju-90-díírì (obtuse angle) ni igun tí ìwọ̀n rẹ̀ wà láàárín 90 díírì àti 180 díírì."}
+{"instruction": "Define solubility.", "input": "", "output": "Sólúbìlítì (solubility) ni agbára nǹkan láti yọ́ nínú sólúvẹ́ntì (bí omi) ní ìwọ̀n kan pàtó."}
+{"instruction": "Explain work-energy principle.", "input": "", "output": "Òfin iṣẹ́-agbára sọ pé iṣẹ́ tí a bá ṣe lórí nǹkan dọ́gba pẹ̀lú àyípadà agbára ìsúnni nǹkan náà."}
+{"instruction": "What is aerobic respiration?", "input": "", "output": "Ìmí-kúrò-pẹ̀lú-ọ̀sìgíìì (aerobic respiration) ni ìlànà tí sẹ́ẹ̀lì ń lò láti tú agbára kúrò nínú oúnjẹ nípa lílo ọ̀sìgíìì."}
+{"instruction": "Why is soil pH adjustment necessary?", "input": "", "output": "Àtúnṣe pH ilẹ̀ ṣe pàtàkì nítorí àwọn ewéko kan ń dàgbà dáadáa nínú ilẹ̀ tí ó jẹ́ ásìdì, nígbà tí àwọn mìíràn ń fẹ́ ilẹ̀ tí ó jẹ́ béesì."}
+{"instruction": "Solve for x: 5x - 10 = 20.", "input": "", "output": "Kọ́kọ́ fi 10 kun 20, ó di 30. Lẹ́yìn náà, pín 30 pẹ̀lú 5. x = 6."}
+{"instruction": "What is inertia?", "input": "", "output": "Ìfọ̀rọ̀-sí-orí-dúró (inertia) ni ànímọ́ nǹkan tí ó ń mú kí ó kọ̀ láti yí ipò rẹ̀ padà (bí ó bá dúró tàbí ó ń rìn)."}
+{"instruction": "What is the function of ribosomes?", "input": "", "output": "Ríbósómù (ribosomes) ni ibùdó tí sẹ́ẹ̀lì ń lò láti ṣe èròjà-amínì (protein) tí ara nílò."}
+{"instruction": "What is the periodic table organization?", "input": "", "output": "Tábìlì ìtẹ̀lé-ìwọ̀n (periodic table) ń tò àwọn ẹ̀yà kẹ́míkà gẹ́gẹ́ bíi iye pùrótónì wọn àti bí wọ́n ṣe ń hùwà si."}
+{"instruction": "Define probability.", "input": "", "output": "Púròbàbìlítì (probability) ni ìwọ̀n bí nǹkan ṣe leè ṣẹlẹ̀ tó."}
+{"instruction": "What is a tissue in biology?", "input": "", "output": "Tìṣú (tissue) ni àkójọpọ̀ àwọn sẹ́ẹ̀lì tí wọ́n jọra tí wọ́n sì ń ṣiṣẹ́ kan náà nínú ara."}
+{"instruction": "Why is proper harvesting important?", "input": "", "output": "Ìkórè-ọ̀nà-tọ́ (proper harvesting) ṣe pàtàkì láti dènà ìbàjẹ́ àti ìpàdánù irúgbìn lẹ́yìn tí a bá ti kórè rẹ̀."}
+{"instruction": "What is the water cycle?", "input": "", "output": "Ìlànà-omi (water cycle) ni ìyípadà omi láti ayé sí afẹ́fẹ́ àti padà sí ayé nípasẹ̀ ìyọ́-omi-lọ́wọ́-ooru, òjò, àti ṣíṣàn omi."}
+{"instruction": "Solve for x in the equation 2x - 8 = 12.", "input": "", "output": "Kọ́kọ́ fi 8 kun 20, ó di 20. Lẹ́yìn náà, pín 20 pẹ̀lú 2. x = 10."}
+{"instruction": "What is a gene mutation?", "input": "", "output": "Mútéṣọ̀nì jíìnì (gene mutation) ni àyípadà àkójọpọ̀ DNA tí ó lè yí ànímọ́ ẹ̀dá kan padà."}
+{"instruction": "Why do livestock need minerals?", "input": "", "output": "Àwọn nǹkan-ìkànnì (minerals) bíi kálṣììùmù ṣe pàtàkì fún egungun ẹran àti fún ìlera ara wọn gbogbogbòò."}
+{"instruction": "Define a scalar quantity.", "input": "", "output": "Ìwọ̀n sẹ́kálà (scalar quantity) ni ìwọ̀n tí ó ní iye nìkan, kò ní ìtọ́sọ́nà (bíi ìwọ̀n ara tàbí àkókò)."}
+{"instruction": "Explain the Law of Conservation of Mass.", "input": "", "output": "Òfin ìdáàbò-bò-ìwọ̀n-ara sọ pé a kò lè dá nǹkan sílẹ̀ tàbí pa nǹkan run nínú ìṣiṣẹ́ kẹ́míkà; àwọn nǹkan nìkan ń yí ipò wọn padà."}
+{"instruction": "What is the function of the vacuole in a plant cell?", "input": "", "output": "Fákúọ̀lù (vacuole) ń tọ́jú omi àti oúnjẹ fún sẹ́ẹ̀lì, ó sì ń ran sẹ́ẹ̀lì lọ́wọ́ láti dúró ṣinṣin."}
+{"instruction": "How do you calculate the area of a rectangle?", "input": "", "output": "Ààyè rẹ́kítàngùlù ni gígùn * gbígbòòrò."}
+{"instruction": "What is a chemical symbol?", "input": "", "output": "Àmì-kẹ́míkà (chemical symbol) ni lẹ́tà kan tàbí méjì tí ó dúró fún ẹ̀yà kẹ́míkà kan (bíi 'O' fún ọ̀sìgíìì)."}
+{"instruction": "Define a balanced diet.", "input": "", "output": "Oúnjẹ tó dọ́gba (balanced diet) ni àkójọpọ̀ èròjà-amínì, kàbóhàìdrétì, ọ̀rá, àti àwọn nǹkan mìíràn tí ara nílò láti wà ní ìlera."}
+{"instruction": "What causes the greenhouse effect?", "input": "", "output": "Ipá gbà-ooru ń wáyé nípasẹ̀ àwọn gáàsì nínú afẹ́fẹ́ (bíi kábọ̀nì dáyọ́ọ́ìdì) tí ó ń tọ́jú ooru tí ó wá láti ọ̀dọ̀ oòrùn."}
+{"instruction": "What is the unit of resistance?", "input": "", "output": "Ọ́ọ̀mù (Ohm) ni ìwọ̀n tí a ń lò láti wọ̀n rèsìstànsì."}
+{"instruction": "How does cross-pollination improve plants?", "input": "", "output": "Ìfọ̀tẹ̀ṣọ́-irúgbìn-láàárín-òdòdó-méjì ń mú kí ewéko ní ànímọ́ tí ó dára, ó sì ń mú kí wọ́n lè dúró ṣinṣin nínú àyíká wọn."}
+{"instruction": "Define an obtuse triangle.", "input": "", "output": "Tíríàngùlù-oní-igun-tí-ó-tóbi-ju-90-díírì (obtuse triangle) ni tíríàngùlù tí ó ní igun kan tí ó tóbi ju 90 díírì lọ."}
+{"instruction": "What is a reactant?", "input": "", "output": "Ríẹ́kítàntì (reactant) ni nǹkan tí ó ń bẹ̀rẹ̀ ìṣiṣẹ́ kẹ́míkà."}
+{"instruction": "Explain the role of the xylem.", "input": "", "output": "Ksaílẹ̀mù (xylem) ni ọ̀nà tí ewéko ń lò láti gbé omi láti inú gbòngbò lọ sí gbogbo apá ewéko yòókù."}
+{"instruction": "What is the speed of light?", "input": "", "output": "Ìyára ìmọ́lẹ̀ dọ́gba pẹ̀lú 300,000 km/s, èyí tí ó jẹ́ ìyára tí ìmọ́lẹ̀ fi ń rìn nínú òfo."}
+{"instruction": "Define a cell wall.", "input": "", "output": "Ògiri sẹ́ẹ̀lì (cell wall) ni ìbòrò líle tí ó wà ní ìta sẹ́ẹ̀lì ewéko tí ó ń pèsè ààbò."}
+{"instruction": "What is the role of a ribosome?", "input": "", "output": "Ríbósómù (ribosomes) ni ibùdó sẹ́ẹ̀lì tí ó ń ṣe èròjà-amínì (protein) tí ara nílò láti dàgbà àti láti ṣiṣẹ́."}
+{"instruction": "Why is the nucleus important?", "input": "", "output": "Niúkíléọ̀sì (nucleus) ṣe pàtàkì nítorí ó ń tọ́jú nǹkan jẹ́nétììkì (DNA) tí ó ń darí gbogbo iṣẹ́ sẹ́ẹ̀lì."}
+{"instruction": "What is the function of the mitochondria?", "input": "", "output": "Mítókóndríà (mitochondria) ni ibùdó tí sẹ́ẹ̀lì ń lò láti tú agbára kúrò nínú oúnjẹ láti ṣe agbára fún gbogbo iṣẹ́ sẹ́ẹ̀lì."}
+{"instruction": "Define a chemical equation.", "input": "", "output": "Ìṣirò kẹ́míkà (chemical equation) ni àfihàn ìṣiṣẹ́ kẹ́míkà tí ó fi hàn àwọn ríẹ́kítàntì àti àwọn pródọ́ọ̀ktì tí ó wáyé."}
+{"instruction": "What is the difference between a conductor and an insulator?", "input": "", "output": "Kọ́ndùkítà (conductor) ni ohun tí ó ń jẹ́ kí ẹ̀lékítíríkì rìn nípasẹ̀ rẹ̀, nígbà tí ìnsúlétà (insulator) ni ohun tí ó ń dènà ẹ̀lékítíríkì láti rìn nípasẹ̀ rẹ̀."}
+{"instruction": "What is the function of the chloroplast?", "input": "", "output": "Kílórófììlì (chloroplast) ni ibùdó tí ewéko ń lò láti ṣe ìṣiṣẹ́-oòrùn-sínú-ewé, èyí tí ó ń yí ìmọ́lẹ̀ oòrùn padà sí agbára tí ewéko lè lò."}
+{"instruction": "Define a parallel circuit.", "input": "", "output": "Síkíítì páraèlì (parallel circuit) ni sikíítì tí àwọn ẹ̀rọ rẹ̀ wà nípò páraèlì, èyí tí ó ń jẹ́ kí agbára kọ́ọ̀ǹtì kọọkan jẹ́ àtọkànwá."}
+{"instruction": "What is the function of the large intestine?", "input": "", "output": "Ìtẹ̀gùn ń ṣiṣẹ́ láti fa omi àti àwọn nǹkan-ìkànnì (minerals) kúrò nínú onjẹ tí a ti jẹ, ó sì ń pèsè ibi tí àwọn àjàkálẹ̀ ará (bacteria) ti ń ṣiṣẹ́."}
+{"instruction": "What is a chemical change?", "input": "", "output": "Ìyípadà kẹ́míkà (chemical change) ni ìlànà tí nǹkan ṣe yí ipò wọn padà láti ṣe nǹkan tuntun."}
+{"instruction": "Define a convex lens.", "input": "", "output": "Lẹ́nsì kónfékísì (convex lens) ni lẹ́nsì tí ó ní àwọ̀ tó yí ká, èyí tí ó ń fojú kọ́ọ̀ǹtì jọra sí i."}
+{"instruction": "What is the function of the small intestine?", "input": "", "output": "Ìtẹ̀kùn ń ṣiṣẹ́ láti fa àwọn nǹkan-ìkànnì (minerals) àti àwọn eroja-amínì (nutrients) kúrò nínú onjẹ tí a ti jẹ, ó sì ń pèsè ibi tí àwọn àjàkálẹ̀ ará (bacteria) ti ń ṣiṣẹ́."}
+{"instruction": "What is the difference between a series and a parallel circuit?", "input": "", "output": "Síkíítì sèríìsì (series circuit) ni sikíítì tí gbogbo ẹ̀rọ rẹ̀ wà nípò sèríìsì, èyí tí ó ń jẹ́ kí agbára kọ́ọ̀ǹtì kọọkan jẹ́ àpapọ̀, nígbà tí sikíítì páraèlì (parallel circuit) ni sikíítì tí àwọn ẹ̀rọ rẹ̀ wà nípò páraèlì, èyí tí ó ń jẹ́ kí agbára kọ́ọ̀ǹtì kọọkan jẹ́ àtọkànwá."}
+{"instruction": "Define a chemical bond.", "input": "", "output": "Ìdè kẹ́míkà (chemical bond) ni ìlànà tí átọ́mù méjì tàbí jù bẹ́ẹ̀ lọ bá so mọ́ ara wọn láti ṣe nǹkan tuntun."}
+{"instruction": "What is the function of the liver?", "input": "", "output": "Ẹ̀dá-ara (liver) ni ibùdó tí ó ń ṣe àtúnṣe àwọn nǹkan-ìkànnì (minerals), ó sì ń pèsè àwọn nǹkan-ìkànnì fún ara."}
+{"instruction": "What is a chemical formula?", "input": "", "output": "Àmì-kẹ́míkà (chemical formula) ni àfihàn tí ó fi hàn àwọn ẹ̀yà kẹ́míkà tí ó wà nínú nǹkan kan àti iye wọn."}
+{"instruction": "Define a concave lens.", "input": "", "output": "Lẹ́nsì kónkéfísì (concave lens) ni lẹ́nsì tí ó ní àwọ̀ tó yí ká, èyí tí ó ń fojú kọ́ọ̀ǹtì jọra sí i."}
+{"instruction": "What is the function of the pancreas?", "input": "", "output": "Pánkíréàsì (pancreas) ni ibùdó tí ó ń ṣe àtúnṣe àwọn eroja-amínì (nutrients) àti àwọn nǹkan-ìkànnì (minerals), ó sì ń pèsè àwọn eroja-amínì fún ara."}
+{"instruction": "What is the difference between a physical change and a chemical change?", "input": "", "output": "Ìyípadà fìsíkà (physical change) ni ìlànà tí nǹkan ṣe yí ipò wọn padà láìyí ẹ̀yà kẹ́míkà wọn, nígbà tí ìyípadà kẹ́míkà (chemical change) ni ìlànà tí nǹkan ṣe yí ipò wọn padà láti ṣe nǹkan tuntun."}
+{"instruction": "Define a convex mirror.", "input": "", "output": "Dáńdání kónfékísì (convex mirror) ni dáńdání tí ó ní àwọ̀ tó yí ká, èyí tí ó ń fojú kọ́ọ̀ǹtì jọra sí i."}
+{"instruction": "What is the function of the kidneys?", "input": "", "output": "Kídìnìsì (kidneys) ni ibùdó tí ó ń ṣe àtúnṣe àwọn nǹkan-ìkànnì (minerals) àti àwọn eroja-amínì (nutrients), ó sì ń pèsè àwọn nǹkan-ìkànnì fún ara."}
+{"instruction": "What is a chemical reaction?", "input": "", "output": "Ìṣiṣẹ́ kẹ́míkà (chemical reaction) ni ìlànà tí nǹkan ṣe yí ipò wọn padà láti ṣe nǹkan tuntun."}
+{"instruction": "Define a concave mirror.", "input": "", "output": "Dáńdání kónkéfísì (concave mirror) ni dáńdání tí ó ní àwọ̀ tó yí ká, èyí tí ó ń fojú kọ́ọ̀ǹtì jọra sí i."}
+{"instruction": "What is the function of the heart?", "input": "", "output": "Ọkàn (heart) ni ibùdó tí ó ń fa ẹ̀jẹ̀ ká kiri ara, ó sì ń pèsè ẹ̀jẹ̀ fún gbogbo apá ara."}
+{"instruction": "What is the difference between a conductor and an insulator?", "input": "", "output": "Kọ́ndùkítà (conductor) ni ohun tí ó ń jẹ́ kí ẹ̀lékítíríkì rìn nípasẹ̀ rẹ̀, nígbà tí ìnsúlétà (insulator) ni ohun tí ó ń dènà ẹ̀lékítíríkì láti rìn nípasẹ̀ rẹ̀."}
+{"instruction": "Define a chemical bond.", "input": "", "output": "Ìdè kẹ́míkà (chemical bond) ni ìlànà tí átọ́mù méjì tàbí jù bẹ́ẹ̀ lọ bá so mọ́ ara wọn láti ṣe nǹkan tuntun."}
+{"instruction": "What is the function of the lungs?", "input": "", "output": "Àfúnkún (lungs) ni ibùdó tí ó ń gba afẹ́fẹ́ wọlé, ó sì ń fa àfúnkún jade láti ara."}
+{"instruction": "What is a chemical formula?", "input": "", "output": "Àmì-kẹ́míkà (chemical formula) ni àfihàn tí ó fi hàn àwọn ẹ̀yà kẹ́míkà tí ó wà nínú nǹkan kan àti iye wọn."}
+{"instruction": "Define a convex lens.", "input": "", "output": "Lẹ́nsì kónfékísì (convex lens) ni lẹ́nsì tí ó ní àwọ̀ tó yí ká, èyí tí ó ń fojú kọ́ọ̀ǹtì jọra sí i."}
+{"instruction": "What is the function of the stomach?", "input": "", "output": "Ìtẹ̀gùn (stomach) ni ibùdó tí ó ń fa onjẹ pọ̀, ó sì ń pèsè àwọn eroja-amínì (nutrients) fún ara."}
+{"instruction": "What is the difference between a physical change and a chemical change?", "input": "", "output": "Ìyípadà fìsíkà (physical change) ni ìlànà tí nǹkan ṣe yí ipò wọn padà láìyí ẹ̀yà kẹ́míkà wọn, nígbà tí ìyípadà kẹ́míkà (chemical change) ni ìlànà tí nǹkan ṣe yí ipò wọn padà láti ṣe nǹkan tuntun."}
+{"instruction": "Define a convex mirror.", "input": "", "output": "Dáńdání kónfékísì (convex mirror) ni dáńdání tí ó ní àwọ̀ tó yí ká, èyí tí ó ń fojú kọ́ọ̀ǹtì jọra sí i."}
+{"instruction": "What is the function of the brain?", "input": "", "output": "Ọpọlọ (brain) ni ibùdó tí ó ń darí gbogbo iṣẹ́ ara, ó sì ń pèsè ìmọ́lẹ̀ fún gbogbo apá ara."}
+{"instruction": "What is the difference between a conductor and an insulator?", "input": "", "output": "Kọ́ndùkítà (conductor) ni ohun tí ó ń jẹ́ kí ẹ̀lékítíríkì rìn nípasẹ̀ rẹ̀, nígbà tí ìnsúlétà (insulator) ni ohun tí ó ń dènà ẹ̀lékítíríkì láti rìn nípasẹ̀ rẹ̀."}
+{"instruction": "Define a chemical bond.", "input": "", "output": "Ìdè kẹ́míkà (chemical bond) ni ìlànà tí átọ́mù méjì tàbí jù bẹ́ẹ̀ lọ bá so mọ́ ara wọn láti ṣe nǹkan tuntun."}
+{"instruction": "What is the function of the skin?", "input": "", "output": "Àwọ̀ (skin) ni ibùdó tí ó ń dáàbò bo ara, ó sì ń pèsè ààbò fún gbogbo apá ara."}
+{"instruction": "What is a chemical formula?", "input": "", "output": "Àmì-kẹ́míkà (chemical formula) ni àfihàn tí ó fi hàn àwọn ẹ̀yà kẹ́míkà tí ó wà nínú nǹkan kan àti iye wọn."}
+{"instruction": "Define a concave lens.", "input": "", "output": "Lẹ́nsì kónkéfísì (concave lens) ni lẹ́nsì tí ó ní àwọ̀ tó yí ká, èyí tí ó ń fojú kọ́ọ̀ǹtì jọra sí i."}
+{"instruction": "What is the function of the muscles?", "input": "", "output": "Ẹ̀dá-ara (muscles) ni ibùdó tí ó ń fa apá ara rìn, ó sì ń pèsè agbára fún gbogbo apá ara."}
+{"instruction": "What is the difference between a physical change and a chemical change?", "input": "", "output": "Ìyípadà fìsíkà (physical change) ni ìlànà tí nǹkan ṣe yí ipò wọn padà láìyí ẹ̀yà kẹ́míkà wọn, nígbà tí ìyípadà kẹ́míkà (chemical change) ni ìlànà tí nǹkan ṣe yí ipò wọn padà láti ṣe nǹkan tuntun."}
+{"instruction": "Define a convex mirror.", "input": "", "output": "Dáńdání kónfékísì (convex mirror) ni dáńdání tí ó ní àwọ̀ tó yí ká, èyí tí ó ń fojú kọ́ọ̀ǹtì jọra sí i."}
+{"instruction": "What is the function of the eyes?", "input": "", "output": "Ojú (eyes) ni ibùdó tí ó ń gba ìmọ́lẹ̀ wọlé, ó sì ń pèsè ìran fún gbogbo apá ara."}
+{"instruction": "What is the difference between a conductor and an insulator?", "input": "", "output": "Kọ́ndùkítà (conductor) ni ohun tí ó ń jẹ́ kí ẹ̀lékítíríkì rìn nípasẹ̀ rẹ̀, nígbà tí ìnsúlétà (insulator) ni ohun tí ó ń dènà ẹ̀lékítíríkì láti rìn nípasẹ̀ rẹ̀."}
+{"instruction": "Define a chemical bond.", "input": "", "output": "Ìdè kẹ́míkà (chemical bond) ni ìlànà tí átọ́mù méjì tàbí jù bẹ́ẹ̀ lọ bá so mọ́ ara wọn láti ṣe nǹkan tuntun."}
+{"instruction": "What is the function of the ears?", "input": "", "output": "Ẹ̀tí (ears) ni ibùdó tí ó ń gba ìró wọlé, ó sì ń pèsè ìgbọ́ran fún gbogbo apá ara."}
+{"instruction": "Solve for x in the linear equation 4x - 7 = 9.", "input": "", "output": "Láti rí x, kọ́kọ́ fi 7 kun 9, ó di 16. Lẹ́yìn náà, pín 16 pẹ̀lú 4. Nípa bẹ́ẹ̀, x = 4."}
+{"instruction": "Find the area of a circle with radius 7cm (use π = 22/7).", "input": "", "output": "Ààyè síríkì ni πr². 22/7 * 7 * 7 = 22 * 7 = 154cm². Ààyè rẹ̀ ni 154cm²."}
+{"instruction": "Calculate the mean of the numbers 4, 8, 12, 16.", "input": "", "output": "Ṣàpapọ̀ wọn: 4 + 8 + 12 + 16 = 40. Pín pẹ̀lú iye nọ́mbà (4). 40 / 4 = 10. Míìnì ni 10."}
+{"instruction": "Factorize the quadratic expression x^2 + 5x + 6.", "input": "", "output": "A ń wá nọ́mbà méjì tí ó ń fún wa ní 6 nígbà tí a bá sọ ọ́ pọ̀, tí ó sì ń fún wa ní 5 nígbà tí a bá fi ara wọn pọ̀. Àwọn nọ́mbà náà ni 2 àti 3. Nípa bẹ́ẹ̀, ìṣirò náà di (x + 2)(x + 3)."}
+{"instruction": "What is the probability of flipping a coin and getting heads?", "input": "", "output": "Ìṣẹ̀lẹ̀ méjì nìkan ni ó wà (heads tàbí tails). Púròbàbìlítì pé yóò jẹ́ heads ni 1 nínú 2, tàbí 0.5 (50%)."}
+{"instruction": "Calculate the volume of a cylinder with radius 3cm and height 10cm.", "input": "", "output": "Ìwọ̀n ààyè síríndà ni πr²h. 3.14 * 3² * 10 = 3.14 * 9 * 10 = 282.6cm³."}
+{"instruction": "Determine the slope of the line passing through (1, 2) and (3, 6).", "input": "", "output": "Ìtẹ̀wọ̀n (slope) ni (y2 - y1) / (x2 - x1). (6 - 2) / (3 - 1) = 4 / 2 = 2. Ìtẹ̀wọ̀n náà ni 2."}
+{"instruction": "Find the perimeter of a square with a side of 5cm.", "input": "", "output": "Ìyípo kwẹ́ẹ́rì ni 4 * ẹ̀gbẹ́. 4 * 5cm = 20cm."}
+{"instruction": "What is the sum of angles in a triangle?", "input": "", "output": "Àpapọ̀ àwọn igun nínú tíríàngùlù nígbà gbogbo ni 180 díírì."}
+{"instruction": "Convert 50% to a fraction.", "input": "", "output": "50% túmọ̀ sí 50 nínú 100. Nípa dídín rẹ̀ kù, ó jẹ́ 1/2."}
+{"instruction": "Evaluate the expression 3 * (4 + 2) - 5.", "input": "", "output": "Lọ́ọ̀dà-ìṣirò (BODMAS), kọ́kọ́ ṣe àkámọ́: 4 + 2 = 6. Nígbà náà, 3 * 6 = 18. Lẹ́yìn náà, 18 - 5 = 13."}
+{"instruction": "What is the ratio of 10 apples to 5 oranges?", "input": "", "output": "Ráṣíò (ratio) ni 10 sí 5, èyí tí a lè dín kù di 2 sí 1."}
+{"instruction": "Define sine in a right-angled triangle.", "input": "", "output": "Sáìnì (sine) ni ẹ̀gbẹ́ tí ó kọjú sí igun náà (opposite) tí a pín pẹ̀lú ẹ̀gbẹ́ tí ó gùn jù (hypotenuse)."}
+{"instruction": "If x/2 = 8, solve for x.", "input": "", "output": "Láti rí x, ṣe 8 * 2. Nípa bẹ́ẹ̀, x = 16."}
+{"instruction": "Calculate the surface area of a cube with side 4cm.", "input": "", "output": "Ààyè òde kùúbù ni 6 * (ẹ̀gbẹ́ * ẹ̀gbẹ́). 6 * (4 * 4) = 6 * 16 = 96cm²."}
+{"instruction": "What is the median of 1, 3, 3, 6, 7, 8, 9?", "input": "", "output": "Nọ́mbà tí ó wà láàárín tòrò nínú tòrò ni 6. Mídíánì ni 6."}
+{"instruction": "What is 15% of 80?", "input": "", "output": "15% * 80 = (15/100) * 80 = 0.15 * 80 = 12."}
+{"instruction": "If two angles of a triangle are 50 and 60, what is the third angle?", "input": "", "output": "Àpapọ̀ igun tíríàngùlù ni 180. 180 - (50 + 60) = 180 - 110 = 70 díírì."}
+{"instruction": "Define a line segment.", "input": "", "output": "Ìlà-kíkúrú (line segment) ni apá ìlà tí ó ní ààyè ìbẹ̀rẹ̀ àti ààyè ìparí tí ó ṣe kedere."}
+{"instruction": "Solve for y: 2y + 4 = y + 10.", "input": "", "output": "Yọ y kúrò ní ẹ̀gbẹ́ méjì (y + 4 = 10). Yọ 4 kúrò ní ẹ̀gbẹ́ méjì. Nípa bẹ́ẹ̀, y = 6."}
