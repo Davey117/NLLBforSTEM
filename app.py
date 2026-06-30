@@ -11,6 +11,7 @@ except ImportError:
 import streamlit as st
 import torch
 from transformers import AutoModelForSeq2SeqLM, AutoTokenizer
+DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
 
 st.set_page_config(page_title="Indigenous STEM NMT Engine", page_icon="📘", layout="wide")
 
@@ -26,8 +27,8 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-
-HF_MODEL_REPO = os.environ.get("HF_MODEL_REPO") 
+# Defensive Fallback if variable isn't set up inside local environment systems
+HF_MODEL_REPO = os.environ.get("HF_MODEL_REPO", "Davey117/nllb-200-stem-yoruba") 
 
 @st.cache_resource
 def load_translation_engine():
@@ -35,17 +36,14 @@ def load_translation_engine():
         # Load the base tokenization configuration matrix
         tokenizer = AutoTokenizer.from_pretrained(HF_MODEL_REPO, use_fast=False)
         
-        # 1. DYNAMIC COMPUTE ROUTING: Fallback to CPU if NVIDIA drivers are missing
-        device = "cuda" if torch.cuda.is_available() else "cpu"
-        
-        # 2. DYNAMIC PRECISION ROUTING: CPU environments require Float32 tracking tensors
-        model_dtype = torch.float16 if device == "cuda" else torch.float32
+        # DYNAMIC PRECISION ROUTING: CPU environments require Float32 tracking tensors
+        model_dtype = torch.float16 if DEVICE == "cuda" else torch.float32
         
         # Stream the weights from the registry onto the chosen compute device
         model = AutoModelForSeq2SeqLM.from_pretrained(
             HF_MODEL_REPO, 
             torch_dtype=model_dtype
-        ).to(device)
+        ).to(DEVICE)
         
         return tokenizer, model
     except Exception as e:
@@ -57,6 +55,7 @@ tokenizer, model = load_translation_engine()
 # --- HEADER SECTION WITH UPDATED NLLB SIGNATURE ---
 st.markdown('<div class="main-header">Indigenous STEM Knowledge Synthesis System</div>', unsafe_allow_html=True)
 st.markdown('<div class="sub-header">Fine-Tuned No Language Left Behind (NLLB) Architecture for African STEM Education</div>', unsafe_allow_html=True)
+
 if tokenizer is not None:
     tab1, tab2 = st.tabs(["📚 Core STEM Translation Bench", "💬 Exploratory Instructional Router"])
 
@@ -73,7 +72,7 @@ if tokenizer is not None:
             if execute_t1 and user_input_t1.strip() != "":
                 with st.spinner("Executing neural token mapping..."):
                     formatted_input = f"Translate English to Yoruba: {user_input_t1.strip()}"
-                    inputs = tokenizer(formatted_input, return_tensors="pt", padding=True).to("cuda")
+                    inputs = tokenizer(formatted_input, return_tensors="pt", padding=True).to(DEVICE)
                     target_lang_id = tokenizer.convert_tokens_to_ids("yor_Latn")
                     
                     with torch.no_grad():
@@ -88,7 +87,7 @@ if tokenizer is not None:
                     st.markdown(f'<div class="translation-output-box"><div class="panel-label" style="color: #10b981;">Target Language Synthesis (yor_Latn)</div><div class="translation-text">{translated_text}</div></div>', unsafe_allow_html=True)
                     m_col1, m_col2 = st.columns(2)
                     m_col1.metric("Input Vectors Parsed", f"{len(inputs['input_ids'][0])} tokens")
-                    m_col2.metric("Inference Engine Status", "100% Stable")
+                    m_col2.metric("Inference Engine Status", f"100% Stable ({DEVICE.upper()})")
 
     with tab2:
         st.markdown('<div class="workspace-card">', unsafe_allow_html=True)
@@ -110,7 +109,7 @@ if tokenizer is not None:
                     instruction_output = f"Ìtọ́sọ́nà: {num1} {yor_op} {num2} ni báyìí: {result}."
                 else:
                     formatted_instruction = f"Instruction: {user_input_t2.strip()}"
-                    inputs = tokenizer(formatted_instruction, return_tensors="pt", padding=True).to("cuda")
+                    inputs = tokenizer(formatted_instruction, return_tensors="pt", padding=True).to(DEVICE)
                     target_lang_id = tokenizer.convert_tokens_to_ids("yor_Latn")
                     with torch.no_grad():
                         generated_tokens = model.generate(
