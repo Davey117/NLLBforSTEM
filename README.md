@@ -1,7 +1,7 @@
 # Indigenous STEM Knowledge Synthesis System
 ### Fine-Tuned Neural Machine Translation (NMT) & Neuro-Symbolic Architecture for African STEM Education
 
-[![Streamlit App](https://static.streamlit.io/badge_cdn/svg/white.svg)](https://nllbforstem.streamlit.app/)
+[![Streamlit App](https://img.shields.io/badge/Streamlit-Live_App-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://nllbforstem.streamlit.app/)
 [![Framework](https://img.shields.io/badge/Framework-PyTorch_&_HuggingFace-orange.svg)](https://pytorch.org/)
 [![Academic Tier](https://img.shields.io/badge/Academic--Tier-B.Sc._Final_Year_Project-blue.svg)]()
 
