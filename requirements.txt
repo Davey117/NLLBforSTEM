@@ -3,6 +3,7 @@ streamlit>=1.30.0
 
 # Deep Learning Runtime Environment
 torch>=2.0.0
+torchvision
 transformers>=4.36.0
 accelerate>=0.25.0
 
